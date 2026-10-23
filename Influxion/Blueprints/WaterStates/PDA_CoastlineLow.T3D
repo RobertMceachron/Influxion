@@ -1,0 +1,10 @@
+Begin Object Class=/Game/FluidFlux/Simulation/Blueprints/PDA_FluxCoastlineState.PDA_FluxCoastlineState_C Name="PDA_CoastlineLow" ExportPath="/Game/FluidFlux/Simulation/Blueprints/PDA_FluxCoastlineState.PDA_FluxCoastlineState_C'/Game/Influxion/Blueprints/WaterStates/PDA_CoastlineLow.PDA_CoastlineLow'"
+   WorldResolution=(X=512,Y=512)
+   WorldPixelSize=500.000000
+   WorldGroundMap="/Script/Engine.Texture2D'/Game/Influxion/Blueprints/WaterStates/PDA_CoastlineLow_Ground.PDA_CoastlineLow_Ground'"
+   AreaLocation=(X=201400.000000,Y=220590.000000,Z=-8720.000000)
+   AreaSize=(X=256000.000000,Y=256000.000000,Z=10000.000000)
+   WorldCoastlineMap="/Script/Engine.Texture2D'/Game/Influxion/Blueprints/WaterStates/PDA_CoastlineLow_Coastline.PDA_CoastlineLow_Coastline'"
+   CaptureOffset=-496.746289
+   NativeClass="/Script/Engine.BlueprintGeneratedClass'/Game/FluidFlux/Simulation/Blueprints/PDA_FluxCoastlineState.PDA_FluxCoastlineState_C'"
+End Object
